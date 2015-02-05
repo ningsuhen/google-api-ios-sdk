@@ -1193,6 +1193,7 @@
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				VALID_ARCHS = "arm64 armv7 armv7s i386 x86_64 arm64";
 			};
 			name = Debug;
@@ -1207,6 +1208,7 @@
 				);
 				PRODUCT_NAME = GTLTouchStaticLib;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				VALID_ARCHS = "arm64 armv7 armv7s i386 x86_64 arm64";
 			};
 			name = Release;
@@ -1230,6 +1232,7 @@
 					AppKit,
 				);
 				PRODUCT_NAME = GTL;
+				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
 			};
 			name = Debug;
@@ -1253,6 +1256,7 @@
 					AppKit,
 				);
 				PRODUCT_NAME = GTL;
+				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
 			};
 			name = Release;
